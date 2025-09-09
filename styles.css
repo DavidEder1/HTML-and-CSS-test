@@ -1,0 +1,30 @@
+/* Normal */
+
+div {
+    color: rgb(61, 211, 31);
+    background-color: black;
+}
+
+p {
+    color: red;
+}
+
+/* Class */
+
+.list {
+    background-color: aqua;
+}
+
+.main p {
+    color: white;
+}
+
+/* ID */
+
+#sub{
+    color: blue;
+}
+
+#special {
+    color: chartreuse;
+}
